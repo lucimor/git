@@ -1,9 +1,3 @@
-# Github
-
-## Rappel
-
-**Ne pas oublier la base : l'aide en ligne de commande.
-Il s'agit de la meilleur documentation.**
 
 ```shell
 git help config
@@ -33,11 +27,6 @@ Liste des globals
 ```shell
 git config --list
 ```
-
-## Principales commandes
-
-Status des fichiers
-
 ```shell
 git status
 ```
